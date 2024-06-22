@@ -31,6 +31,6 @@ lb.add(1) # will not be placed on leaderboard
 
 ## convert to list
 
-```
+```python3
 >>> lb.toList()
 [4, 5, 60]
