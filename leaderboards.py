@@ -45,12 +45,10 @@ class Leaderboard:
 	def print(self):
 		self.lb.print()
 
-	def toArray(self):
+	def toList(self):
 		a = []
 		i = self.lb.head
 		while i:
 			a.append(i.value)
 			i = i.next
 		return a
-
-
