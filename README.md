@@ -29,8 +29,8 @@ lb.add(1) # will not be placed on leaderboard
 4
 ```
 
-## convert to array
+## convert to list
 
 ```
->>> lb.toArray()
+>>> lb.toList()
 [4, 5, 60]
