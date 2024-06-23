@@ -24,9 +24,9 @@ lb.add(1) # will not be placed on leaderboard
 
 ```python3
 >>> lb.print()
-60
-5
 4
+5
+60
 ```
 
 ## convert to list
